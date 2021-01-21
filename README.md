@@ -27,6 +27,8 @@ Client :
 
 _____________________________________________________________________
 
+This Project Have Update !
+
 # File Encrypted And Saved To Server Database ! For This, We Are Created dump_file !!!
 
 # Client And Server Use With a Key ! (Global Key xD)
