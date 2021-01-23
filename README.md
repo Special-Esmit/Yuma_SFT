@@ -3,8 +3,7 @@
 New Version :
 
 	* Fixed Bug
-	* Add config_file,log_file 
-	* Fixed Controling and etc.
+	* Add Other File For Control and etc. (See in the protocol)
 
 Secure Sharing Your File
 
