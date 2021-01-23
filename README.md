@@ -36,11 +36,11 @@ Client :
 
 	File 'Yuma.rb' Created For Send And Dump File !
   
-	*Send : 'ruby Yuma.rb -sf File_Address File_Name(Saved to Target DB) ip port' | '-sf' , '-fs' , '--send_file' For Send File
+	Send : 'ruby Yuma.rb -sf File_Address File_Name(Saved to Target DB) ip port' | '-sf' , '-fs' , '--send_file' For Send File
 
 Dump Saved File :
   
-	*Dump : (in the Server) 'ruby Yuma.rb -df Filename' | '-df' , '-fd' , '--dump_file' For Dump File
+	Dump : (in the Server) 'ruby Yuma.rb -df Filename' | '-df' , '-fd' , '--dump_file' For Dump File
 
 _____________________________________________________________________
 
