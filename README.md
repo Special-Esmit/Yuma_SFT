@@ -1,7 +1,8 @@
 # Yuma_SFT
+* New Version ! Fixed Bug And Add config_file,log_file Fixed Controling and ...
 Secure Sharing Your File
 
-Yuma_SFT Protocol (Beta Version)
+Yuma_SFT Protocol V1
 
 File Sharing With Security !
 
