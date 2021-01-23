@@ -1,13 +1,13 @@
 # Yuma_SFT
 
+[Yuma_SFT Protocol V1]
+
 New Version :
 
 	* Fixed Bug
 	* Add Other File For Control and etc. (See in the protocol)
 
 Secure Sharing Your File
-
-Yuma_SFT Protocol V1
 
 File Sharing With Security !
 
