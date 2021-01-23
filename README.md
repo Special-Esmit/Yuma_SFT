@@ -11,7 +11,7 @@ Yuma_SFT Protocol V1
 
 File Sharing With Security !
 
-Note : For Sharing File , Create Key and Send Key For Target ! (or creating one 32 byte key and set in yuma.conf 'Tr_Key')
+Note : For Sharing File , Create Key and Send Key For Target ! (or creating a key and set in yuma.conf 'Tr_Key')
 
 Platform : Linux (Tested On Arch Linux)
 
