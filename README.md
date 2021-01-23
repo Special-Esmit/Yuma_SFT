@@ -13,6 +13,9 @@ _____________________________________________________________________
 
 Running : 
 
+yuma.conf File :
+	IP = Server IP | Defualt is 
+
 Step 1 : 'ruby luncher.rb' For Create Key and Your Random Hash !
 
 Server : 
