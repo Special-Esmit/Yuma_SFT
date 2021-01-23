@@ -1,6 +1,4 @@
-# Yuma_SFT
-
-[Yuma_SFT Protocol V1]
+# Yuma_SFT V1
 
 New Version :
 
