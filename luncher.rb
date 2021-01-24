@@ -29,5 +29,4 @@ system("mkdir " + sg)
 system("chmod 700 " + $yuma_config['Data'])
 system("chmod 700 " + $yuma_config["Key_File"])
 system("echo '{}' > " + $yuma_config['File_DB'] + "Files_db.json")
-system("echo '{}' > " + $yuma_config['Data'])
 puts "\n<^> Data Saved ! By :)"
